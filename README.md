@@ -9,6 +9,6 @@ This project designed for quiz exam. Here, If a user logs in with admin credenti
 
 ## How to run this project:
 - Clone this project
-- run ```HomePage.java```
+- Run ```HomePage.java```
 
 ## Output Video:
